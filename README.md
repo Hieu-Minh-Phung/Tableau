@@ -1,1 +1,1 @@
-# Data Visualization labs and assignments
+# Data Visualization
